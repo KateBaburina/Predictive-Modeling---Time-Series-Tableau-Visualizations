@@ -37,4 +37,6 @@ RapidMiner Studio - https://rapidminer.com/platform/
 Google BigQuery - https://console.cloud.google.com/bigquery
 Tableau Prep Builder - https://www.tableau.com
 
+Installation is not required, you can see the whole process in Colab Notebook
+https://colab.research.google.com/drive/1qDyCp2jGx02AQbtUxz_FoQRSxGueoDQV?usp=sharing
 
