@@ -34,7 +34,9 @@ Logistic Regression, Decision Tree, Decision Forest, Decision Jungle, Gradient B
 ## Installation
 
 RapidMiner Studio - https://rapidminer.com/platform/
+
 Google BigQuery - https://console.cloud.google.com/bigquery
+
 Tableau Prep Builder - https://www.tableau.com
 
 Installation is not required, you can see the whole process in Colab Notebook
