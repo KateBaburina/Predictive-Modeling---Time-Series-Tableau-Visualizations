@@ -12,7 +12,7 @@
 Predictive Modeling - Time Series + Tableau
 
 ## Description
-The dataset contains information about on clothes sales, there are 5 tables. Predictive Modeling for Sales forecast using Time Series in BigQuery ARIMA, Python PyCaret, Python Time Series, Tableau. ABC, XYZ, RFM marketing analysis performed, Tableau dashboards with KPIs and other business metrics added to the report and Colab Notebooks file.
+The dataset contains information on clothes sales, there are 5 tables. Predictive Modeling for Sales forecast using Time Series in BigQuery ARIMA, Python PyCaret, Python Time Series, Tableau. ABC, XYZ, RFM marketing analysis performed, Tableau dashboards with KPIs and other business metrics added to the report and Colab Notebooks file.
 
 ## EDA
 
